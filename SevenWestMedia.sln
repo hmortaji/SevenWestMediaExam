@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenWestMedia", "SevenWestMedia\SevenWestMedia.csproj", "{4BC01D86-B4D5-4F35-AA83-1B4D2DD799ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenWestMedia.Test", "SevenWestMedia.Test\SevenWestMedia.Test.csproj", "{09609ECC-45E3-4AB4-8339-E36BD666FFB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4BC01D86-B4D5-4F35-AA83-1B4D2DD799ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC01D86-B4D5-4F35-AA83-1B4D2DD799ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC01D86-B4D5-4F35-AA83-1B4D2DD799ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09609ECC-45E3-4AB4-8339-E36BD666FFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09609ECC-45E3-4AB4-8339-E36BD666FFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09609ECC-45E3-4AB4-8339-E36BD666FFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09609ECC-45E3-4AB4-8339-E36BD666FFB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
